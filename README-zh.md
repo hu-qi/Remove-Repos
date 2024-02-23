@@ -1,3 +1,5 @@
+> 归零，十八年后，我们又在这里相遇了！
+
 # 快速删除仓库
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
